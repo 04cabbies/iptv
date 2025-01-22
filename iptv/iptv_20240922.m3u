@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_JP.xml"
+
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-name="日本テレビ" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",日本テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-name="テレビ朝日" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 tvg-ID="10693" tvg-name="10693" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",10693
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="テレビ東京" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="フジテレビ" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK東京　総合" ztvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK東京　総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 tvg-id="JOABDTV.jp" tvg-name="NHK東京　教育" ztvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHK東京　教育
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 tvg-chno="242" tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="https://i.imgur.com/vEpjLnj.png",J Sports 1 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="243" tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-logo="https://i.imgur.com/g1GLVH2.png",J Sports 2 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="244" tvg-id="JSports3.jp" tvg-name="J Sports 3" tvg-logo="https://i.imgur.com/xdI361E.png",J Sports 3 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="245" tvg-id="JSports4.jp" tvg-name="J Sports 4" tvg-logo="https://i.imgur.com/fBcyZNL.png",J Sports 4 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/CNN.us.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?hdntl=exp=1636811828~acl=%2fhls%2flive%2f586495%2fcnngo%2f*!%2fhls%2flive%2f586495-b%2fcnngo%2f*~hmac=3573df15bf69b49fe8e582b66f9247910a168e5dd2054baab6fd14cd7c1ae625
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FoxNews.us.png",Fox News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/LoveNature.ca.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/MUTV.uk.png",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8

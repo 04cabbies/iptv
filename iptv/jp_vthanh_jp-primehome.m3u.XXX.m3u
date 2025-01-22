@@ -1,0 +1,50 @@
+#EXTM3U url-tvg="http://192.168.86.214/tvguide.myjcom.jp.channels.xml" refresh="3600"
+
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",TBSテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+#BS
+#EXTINF:-1 tvg-chno="101" tvg-id="NHKBS1.jp" tvg-name="NHKBS1" tvg-logo="https://i.imgur.com/1x8256Y.png" group-title="BS",NHK BS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="103" tvg-id="NHKBSPremium.jp" tvg-name="NHKBSプレミアム" tvg-logo="https://i.imgur.com/fiJ3Pnh.png" group-title="BS",NHK BSプレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="141" tvg-id="BSNipponTV.jp" tvg-name="BS日テレ" tvg-logo="https://i.imgur.com/Zj3FywH.png" group-title="BS",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="151" tvg-id="BSAsahi.jp" tvg-name="BS朝日" tvg-logo="https://i.imgur.com/tYe90nA.png" group-title="BS",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="161" tvg-id="BSTBS.jp" tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/C3MK6Tx.png" group-title="BS",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="171" tvg-id="BSTVTokyo.jp" tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="BS",BSテレ東
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="181" tvg-id="BSFuji.jp" tvg-name="BSフジ" tvg-logo="https://i.imgur.com/LyrhEz0.png" group-title="BS",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="191" tvg-id="WOWOWPrime.jp" tvg-name="WOWOWプライム" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="BS",WOWOW プライム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="192" tvg-id="WOWOWLive.jp" tvg-name="WOWOWライブ" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="BS",WOWOW ライブ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="193" tvg-id="WOWOWCinema.jp" tvg-name="WOWOWシネマ" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="BS",WOWOW シネマ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="200" tvg-id="Star1.jp" tvg-name="スターチャンネル1" tvg-logo="https://i.imgur.com/zzcztoQ.png" group-title="BS",スターチャンネル1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="201" tvg-id="Star2.jp" tvg-name="スターチャンネル2" tvg-logo="https://i.imgur.com/M5PpQss.png" group-title="BS",スターチャンネル2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="202" tvg-id="Star3.jp" tvg-name="スターチャンネル3" tvg-logo="https://i.imgur.com/77vu7v4.png" group-title="BS",スターチャンネル3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="236" tvg-id="Animax.jp" tvg-name="BSアニマックス" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="BS",BSアニマックス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="242" tvg-id="JSports1.jp" tvg-name="J Sports 1" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="BS",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="243" tvg-id="JSports2.jp" tvg-name="J Sports 2" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="BS",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="244" tvg-id="JSports3.jp" tvg-name="J Sports 3" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="BS",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="245" tvg-id="JSports4.jp" tvg-name="J Sports 4" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="BS",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-chno="255" tvg-id="NihonEigaSenmonChannel.jp" tvg-name="日本映画専門ch" tvg-logo="https://i.imgur.com/vMtPnYi.png" group-title="BS",日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0

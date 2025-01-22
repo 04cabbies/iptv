@@ -1,0 +1,18 @@
+#EXTM3U url-tvg="http://192.168.86.214/tvguide.myjcom.jp.channels.xml" refresh="3600"
+
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png",日本テレビ
+http://103.255.250.194:5002/gd03.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE5-051-400x400.png",テレビ朝日
+http://103.255.250.194:5002/gd06.m3u8?token=guoziyun&gid=gd06&channel=zhongying
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png",TBSテレビ
+http://103.255.250.194:5002/gd04.m3u8?token=guoziyun&gid=gd04&channel=zhongying
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png",テレビ東京
+http://103.255.250.194:5002/gd07.m3u8?token=guoziyun&gid=gd07&channel=zhongying
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png",フジテレビ
+http://103.255.250.194:5002/gd05.m3u8?token=guoziyun&gid=gd05&channel=zhongying
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" ztvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK総合
+http://103.255.250.194:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
+
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" ztvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png",NHKEテレ
+http://103.255.250.194:5002/gd02.m3u8?token=guoziyun&gid=gd02&channel=zhongying
