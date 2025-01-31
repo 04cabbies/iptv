@@ -13,8 +13,6 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" ztvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png",NHK総合
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 tvg-id="NHKBSP4K" ztvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BSP4K
-http://tv.utako.moe/bsp4k_testsignal/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true", BBC One HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
