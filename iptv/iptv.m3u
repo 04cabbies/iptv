@@ -20,7 +20,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lon
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1, 广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/CNN.us.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?hdntl=exp=1636811828~acl=%2fhls%2flive%2f586495%2fcnngo%2f*!%2fhls%2flive%2f586495-b%2fcnngo%2f*~hmac=3573df15bf69b49fe8e582b66f9247910a168e5dd2054baab6fd14cd7c1ae625
